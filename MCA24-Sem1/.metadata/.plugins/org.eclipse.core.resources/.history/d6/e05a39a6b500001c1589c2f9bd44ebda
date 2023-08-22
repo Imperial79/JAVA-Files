@@ -1,0 +1,9 @@
+
+public class HelloWorld {
+	public static void main(String[] args) {
+//		int len = args.length;
+		double b = 1.9f;
+		System.out.println(b);
+	}
+}
+

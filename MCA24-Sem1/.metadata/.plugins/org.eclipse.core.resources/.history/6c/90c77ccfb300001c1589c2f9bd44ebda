@@ -1,0 +1,9 @@
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		int a=10, b=9;
+		int len = args.length;
+		System.out.println("Hello World: "+ (args));
+	}
+}
+

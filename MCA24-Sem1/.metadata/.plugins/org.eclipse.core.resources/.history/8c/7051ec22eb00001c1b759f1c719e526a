@@ -1,0 +1,12 @@
+
+public class HelloWorld {
+	public static void main(String[] args) {
+//		int len = args.length;
+//		int a = 10, b = 20;
+		String s1 = "Hello";
+		String s2 = "Wipeor";
+		
+		System.out.println(s1.equals(s2));
+	}
+}
+
